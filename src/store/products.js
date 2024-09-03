@@ -177,7 +177,7 @@ export const products_info = [
           "price": 200,
           "total": 200,
           "quantity": 1,
-          "unit": 'ltr',
+          "unit": 'tree',
           "reviews": 4.4,
           "reviewCount": 19
         },
@@ -188,7 +188,7 @@ export const products_info = [
           "price": 400,
           "total": 400,
           "quantity": 1,
-          "unit": 'kg',
+          "unit": 'tree',
           "reviews": 4.8,
           "reviewCount": 32
         },
@@ -199,7 +199,7 @@ export const products_info = [
           "price": 359,
           "total": 359,
           "quantity": 1,
-          "unit": 'kg',
+          "unit": 'tree',
           "reviews": 4.2,
           "reviewCount": 15
         },
@@ -210,7 +210,7 @@ export const products_info = [
           "price": 349,
           "total": 349,
           "quantity": 1,
-          "unit": 'kg',
+          "unit": 'tree',
           "reviews": 4.6,
           "reviewCount": 27
         }
